@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abhishek Gupta and I'm a Full Stack Developer from Gujrat</h2>
+<h2 align="left">Hi 👋! My name is Abhishek Gupta and I'm a Full Stack Developer from Gujarat</h2>
 
 ###
 
